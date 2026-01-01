@@ -1,0 +1,17 @@
+{
+  "name": "netwave-care",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "firebase": "^10.7.1",
+    "lucide-react": "^0.294.0",
+    "three": "^0.134.0",
+    "vanta": "^0.5.24"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
